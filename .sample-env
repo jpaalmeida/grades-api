@@ -1,0 +1,2 @@
+MONGODB=mongodb+srv://mongonode:@dm1n@bootcamp.edsu1.azure.mongodb.net/grades?retryWrites=true&w=majority
+PORT=8081
